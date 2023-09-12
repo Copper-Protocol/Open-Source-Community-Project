@@ -1,5 +1,7 @@
 # Open-Source-Community-Project
 
+<h1> Want to Make an Impact? We Need Your Help!</h1>
+
 Our team is building a sovereignty & privacy focused blockchain infrastructure project to provide underserved communities access to the digital economy.
 <p>
 This project will serve BiPOC (Black, _Indigenous_, People of Color) communities by creating blockchain infrastructure, education content and tooling 
