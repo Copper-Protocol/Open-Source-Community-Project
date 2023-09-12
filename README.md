@@ -1,6 +1,6 @@
 # Open-Source-Community-Project
 
-<p><b> Want to Make an Impact? We Need Your Help!</b></p>
+<p><b> Want to Make an Impact? </b></p>
 
 Our team is building a sovereignty & privacy focused blockchain infrastructure project to provide underserved communities access to the digital economy.
 <p>
