@@ -1,12 +1,13 @@
 # Open-Source-Community-Project
 
-<p><b> Want to Make an Impact? </b></p>
+<p><b> Want to Make a Historical Impact? </b></p>
 
 Our team is building a sovereignty & privacy focused blockchain infrastructure project to provide underserved communities access to the digital economy.
 <p>
 This project will serve BiPOC (Black, _Indigenous_, People of Color) communities by creating blockchain infrastructure, education content and tooling 
 for our people of all ages to experience the power of self-determination. </p>
 
-<p><b> We Need Your Contributions!  Click Projects for task updates</b></p>
+<p><b> We Need Your Contribution! </b></p>  
+<p><b> Click Projects for task updates</b></p>
 
 ![Copper_Protocol_Dev_Flyer](https://github.com/Copper-Protocol/Open-Source-Community-Project/assets/84947100/e770fc6c-152e-4348-83f7-c8ffe724ba5d)
