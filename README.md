@@ -8,3 +8,5 @@ This project will serve BiPOC (Black, _Indigenous_, People of Color) communities
 for our people of all ages to experience the power of self-determination. </p>
 
 <p><b> We Need Your Help!</b></p>
+
+![Copper_Protocol_Dev_Flyer](https://github.com/Copper-Protocol/Open-Source-Community-Project/assets/84947100/e770fc6c-152e-4348-83f7-c8ffe724ba5d)
